@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+}
+body{
+    background: #000000;
+}
+.social{
+    margin: 18rem 0;
+}
+a{
+    color: #05dffc;
+    display: inline-block;
+}
+i{
+    font-size: 45px;
+    padding: 22px;
+    border-radius: 50px;
+    margin: 10px;
+    border: 6px solid #000000;
+    transition-duration: 0.5s;
+}
+i:hover{
+    border-radius: 150px;
+    background: #00e2ff;
+    box-shadow: 0px 0px 14px 12px #00bcd4bd;
+    color: #1c545c;
+    transition-duration: 0.3s;
+    border: 6px solid #ffffffa6;
+}
+a:hover{
+    color: #aff6ff;
+    
+}
+
+
